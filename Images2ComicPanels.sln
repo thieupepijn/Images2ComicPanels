@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Images2ComicPanels", "Images2ComicPanels\Images2ComicPanels.csproj", "{E95E44F9-4516-4E99-90EE-59237ADB4A6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E95E44F9-4516-4E99-90EE-59237ADB4A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95E44F9-4516-4E99-90EE-59237ADB4A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95E44F9-4516-4E99-90EE-59237ADB4A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95E44F9-4516-4E99-90EE-59237ADB4A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33C2D539-B921-4C62-A4FF-36FBB840818E}
+	EndGlobalSection
+EndGlobal
